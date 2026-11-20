@@ -1,0 +1,13 @@
+Sistema de Gerenciamento de Bibliotecas
+CIN8003 — Bancos de Dados e Aplicações | UFSC
+Cenário validado pelo professor.
+
+O Sistema de Gerenciamento de Bibliotecas foi planejado para organizar o acervo e a circulação de materiais em uma ou mais unidades. Ele centraliza informações mantidas em papel ou planilhas, facilitando consultas e reduzindo erros e perda de registros.
+
+O catálogo guarda livros, autores, editoras e categorias. Cada livro pode ter vários autores e possui uma categoria e uma editora. Cada exemplar tem identificação própria e pertence a uma unidade, o que permite contar e localizar as cópias de cada livro.
+
+Os leitores têm um cadastro válido para a rede. Os funcionários estão vinculados a uma unidade e registram as retiradas e devoluções. Cada empréstimo identifica um exemplar físico e guarda as datas de retirada, devolução prevista e devolução efetiva.
+
+Quando um título estiver indisponível na unidade escolhida, o leitor poderá reservá-lo. Na devolução, uma cópia apta poderá ser destinada a uma reserva ativa. O sistema também identifica atrasos e registra multas de devoluções atrasadas conforme a política da unidade.
+
+O banco mantém o histórico de circulação e facilita a consulta da disponibilidade do acervo, dos empréstimos e dos prazos. Essas informações ajudam a equipe a organizar o atendimento e acompanhar o uso de cada unidade.
